@@ -1,5 +1,5 @@
 This is self-practice for building LLM from scratch. I used Burmese Dataset collected from WIKI articles.
-First stage is building BigramLanguageModel
+First stage is building smiple BigramLanguageModel without self attention mechanism
 
 
 VERSION 1
