@@ -2,7 +2,4 @@ This is self-practice for building LLM from scratch. I used Burmese Dataset coll
 First stage is building BigramLanguageModel
 
 
-
-[<a href="https://drive.google.com/file/d/1c-iWc8oh0yZ74W6gVmWFM0ffoHTIiGYk/view">
-    <img src="https://drive.google.com/uc?export=view&id=<FILE_ID>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-</a>](https://drive.google.com/file/d/1c-iWc8oh0yZ74W6gVmWFM0ffoHTIiGYk/view)https://drive.google.com/file/d/1c-iWc8oh0yZ74W6gVmWFM0ffoHTIiGYk/view
+![Screenshot from 2024-02-01 14-37-29](https://github.com/myominhtet/BurmeseGPT-Character_Level-/assets/30900212/acbe4131-f7d3-4f4d-967b-b83f80d19a25)
