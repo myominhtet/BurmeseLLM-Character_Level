@@ -1,7 +1,7 @@
 This is self-practice for building LLM from scratch. I used Burmese Dataset collected from WIKI articles.
 First stage is building smiple BigramLanguageModel without self attention mechanism
 
-NOTE: The words may not be meaningful coz the bigram model will only look the one previous token or word to generate new token
+NOTE: The words may not be meaningful coz the bigram model will only look at the previous single token or word to generate new token
 
 
 VERSION 1
