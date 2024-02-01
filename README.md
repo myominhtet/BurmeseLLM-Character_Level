@@ -8,3 +8,7 @@ Loss
 Generation samples
 
 ![Screenshot from 2024-02-01 14-11-02](https://github.com/myominhtet/BurmeseGPT-Character_Level-/assets/30900212/1e007bf1-ce00-4e50-8e78-213bdcf21f45)
+
+Dataset
+
+https://www.kaggle.com/datasets/myominhtet/burmese-wikipedia-articles144k
